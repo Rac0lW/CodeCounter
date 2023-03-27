@@ -1,4 +1,4 @@
-# CodeCounter
+# CodeCounter 代码行数计数器
 This program could count your the total number of your code in the selecter folder on your device.
 
 计算在你所选择文件夹里面的代码行数
